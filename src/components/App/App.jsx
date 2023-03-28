@@ -1,6 +1,6 @@
-import { Statistic } from "components/Statistics/Statistics";
+import { Statistic } from "../Statistics/Statistics";
 import { Component } from "react";
-import { FeedbackOptions } from '../FeedbackNavigation/FeedbackNavigation';
+import { FeedbackOptions } from '../FeedbackOption/FeedbackOption';
 import { Section } from '../Title/Title';
 import { GlobalStyle } from '../Globalstyle';
 import { Container } from "./AppStyled";
